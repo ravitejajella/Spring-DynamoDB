@@ -1,2 +1,1 @@
-# Spring-DynamoDB
-AWS DynamoDB Integration with Spring Boot
+In this project, I will integrate AWS DynamoDB with a Spring Boot application. I will configure an IAM group and user, assign the user to the group, and grant full access to DynamoDB. Within the Spring Boot application, I will define an Employee entity and implement CRUD operations to seamlessly interact with DynamoDB for data storage and retrieval.
